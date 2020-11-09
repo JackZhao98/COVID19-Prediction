@@ -1,6 +1,6 @@
 # COVID19-Prediction
 
-## BEFORE YOU START!
+## BEFORE YOU START! (FIRST RUN)
 
 Create a `venv` virtual environment and install required packages.
 
@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 ```
 cd COVID19-Prediction
+source venv/bin/activate
 jupyter notebook
 ```
 
