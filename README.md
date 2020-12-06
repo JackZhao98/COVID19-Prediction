@@ -15,7 +15,7 @@ Yuanyuan Xiong
 
 The entirety of this project is done within a Jupyter Notebook. There are two models, a recurrent neural-network (RNN) implemented within `RNN.ipynb` and an auto regressive integrated moving average (ARIMA) implemented within `ARIMA.ipynb`. We would like to be graded with our ARIMA model, as our RNN model does not produce accurate results. A more detailed explanation will be included in our final project report.
 
-All data is included in the `data` directory, where `data/round1/` contains all the necessary training data for round 1, `data/round2/` contains all the necessary training data for round 2, and `data/submission/` contains all the submission data generated from our models.
+All data is included in the `data` directory, where `data/train/` contains all the necessary training data for both rounds and `data/submission/` contains all the submission data generated from our models.
 
 The `requirements.txt` file details the packages needed for this project. 
 
