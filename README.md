@@ -2,9 +2,13 @@
 
 ## Team Members
 Mingchao Lian (Team Leader)
+
 Jiajian Lin
+
 Jason Lai
+
 Zijian Zhao
+
 Yuanyuan Xiong
 
 ## Project Structure
