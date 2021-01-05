@@ -1,4 +1,4 @@
-# COVID-19 Prediction (Team 4)
+# COVID-19 Prediction
 
 ## Team Members
 Mingchao Lian (Team Leader)
